@@ -1,5 +1,6 @@
 # iPhoneRelease
 DemoiPhone
-MajorRelease="iPhone13"
-SubVersion="ProMax"
+MajorRelease="iPhone14"
+
+SubVersion="Plus"
 
